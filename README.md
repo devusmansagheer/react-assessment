@@ -8,7 +8,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/devusmansagheer/react-assessment.git
    cd mui-card
    ```
 2. **Install dependencies:**
